@@ -76,7 +76,7 @@ function draw() {
   stand2.display();
   strokeWeight(2);
   stroke(15);
-  fill("lightblue");
+  fill("white");
   block1.display();
   block2.display();
   block3.display();
@@ -84,37 +84,37 @@ function draw() {
   block5.display();
   block6.display();
   block7.display();
-  fill("cyan");
+  fill("white");
 
   block8.display();
   block9.display();
   block10.display();
   block11.display();
   block12.display();
-  fill("red")
+  fill("white")
   ;
   block13.display();
   block14.display();
   block15.display();
-  fill("platinum");
+  fill("white");
 
   block16.display();
-  fill("lightblue");
+  fill("white");
 
   blocks1.display();
   blocks2.display();
   blocks3.display();
   blocks4.display();
   blocks5.display();
-  fill("cyan");
+  fill("white");
 
   blocks6.display();
   blocks7.display();
   blocks8.display();
-  fill("platium")
+  fill("white")
 
   blocks9.display();
-  fill("gold");
+  fill("white");
 
   imageMode(CENTER)
   image(polygon_img ,ball.position.x,ball.position.y,40,40);
